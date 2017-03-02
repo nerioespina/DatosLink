@@ -1,0 +1,10 @@
+C:\Users\Nerio\Documents\Visual Studio 2013\Projects\DatosLink - Finalizado\DatosLink\bin\Release\DatosLink.dll
+C:\Users\Nerio\Documents\Visual Studio 2013\Projects\DatosLink - Finalizado\DatosLink\bin\Release\DatosLink.pdb
+C:\Users\Nerio\Documents\Visual Studio 2013\Projects\DatosLink - Finalizado\DatosLink\bin\Release\DatosLink.xml
+C:\Users\Nerio\Documents\Visual Studio 2013\Projects\DatosLink - Finalizado\DatosLink\bin\Release\MySql.Data.dll
+C:\Users\Nerio\Documents\Visual Studio 2013\Projects\DatosLink - Finalizado\DatosLink\bin\Release\MySQLDriverCS.dll
+C:\Users\Nerio\Documents\Visual Studio 2013\Projects\DatosLink - Finalizado\DatosLink\obj\Release\DatosLink.Resources.resources
+C:\Users\Nerio\Documents\Visual Studio 2013\Projects\DatosLink - Finalizado\DatosLink\obj\Release\DatosLink.vbproj.GenerateResource.Cache
+C:\Users\Nerio\Documents\Visual Studio 2013\Projects\DatosLink - Finalizado\DatosLink\obj\Release\DatosLink.dll
+C:\Users\Nerio\Documents\Visual Studio 2013\Projects\DatosLink - Finalizado\DatosLink\obj\Release\DatosLink.xml
+C:\Users\Nerio\Documents\Visual Studio 2013\Projects\DatosLink - Finalizado\DatosLink\obj\Release\DatosLink.pdb
